@@ -149,7 +149,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.5)
-  sass-rails (~> 5.0)
+  sass-rails (~> 5.0, >= 5.0.4)
   sdoc (~> 0.4.0)
   spring
   sqlite3
